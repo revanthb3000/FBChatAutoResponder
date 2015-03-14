@@ -1,7 +1,7 @@
-GmailChatAutoResponder
+FBChatAutoResponder
 ==================
 
-The perfect way to keep your contacts entertained even when you're not around. This uses an old version of python-xmpp library that seems to be working well for GMail. Facebook's been giving me troubles though. Look for that in a different repository.
+The perfect way to keep your contacts entertained even when you're not around. This uses the sleek-xmpp library.
 
 Features:
 ---------
